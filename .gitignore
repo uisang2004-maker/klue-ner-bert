@@ -1,0 +1,12 @@
+# Saved model checkpoints (large files)
+klue-ner-bert/
+*.safetensors
+*.bin
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

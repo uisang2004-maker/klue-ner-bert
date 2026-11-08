@@ -1,0 +1,8 @@
+# Developed on Google Colab (T4 GPU)
+torch>=2.3
+transformers
+pandas
+pyarrow
+numpy
+seqeval
+tqdm
